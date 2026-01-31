@@ -24,4 +24,5 @@ A Python-based data analytics project to analyze and visualize COVID-19 activity
 - Resume and portfolio
 
 ## Author
-Your Name
+charulatha 
+
